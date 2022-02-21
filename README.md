@@ -17,7 +17,7 @@ To use the token grabber modify line 8 and 9 (gui.py)
 
 
 ## Screenshots
- The victim will see this screen
+ The victim will see this screen (console version)
 ![App Screenshot](https://i.imgur.com/csrd4jY.png)
 
 
